@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "News app to catch up on the latest headlines",
-  "author":"Web Applications Development Group" ,
+  "author": "Web Applications Development Group",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -12,6 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.12.2",
     "vue": "^3.5.18"
   },
   "devDependencies": {
